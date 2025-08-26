@@ -81,19 +81,6 @@ pesquisa** para facilitar a busca de locais já cadastrados.
 
 ------------------------------------------------------------------------
 
-## 🔗 Rotas Principais da API
-
-  Método   Rota                      Descrição
-  -------- ------------------------- ------------------------------
-  GET      /api/locations            Listar todas as localizações
-  POST     /api/locations            Criar uma nova localização
-  GET      /api/locations/{id}       Exibir detalhes de um ponto
-  PUT      /api/locations/{id}       Atualizar uma localização
-  DELETE   /api/locations/{id}       Remover uma localização
-  GET      /api/search?query=texto   Buscar localizações salvas
-
-------------------------------------------------------------------------
-
 ## 🔍 Barra de Pesquisa
 
 Foi implementada uma **barra de pesquisa** que permite ao usuário
