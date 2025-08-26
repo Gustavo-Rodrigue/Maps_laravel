@@ -106,8 +106,8 @@ requisitos iniciais.
 
 ## 📷 Demonstração
 
-*(Adicione aqui prints ou gifs da aplicação rodando com a barra de
-pesquisa e o mapa interativo)*
+<img width="1884" height="867" alt="image" src="https://github.com/user-attachments/assets/c414ed2a-01fb-4371-8bff-14f75a5bb234" />
+
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,6 @@ pesquisa e o mapa interativo)*
 
 ------------------------------------------------------------------------
 
-## 📄 Licença
+## 📃Documento de inspiração
 
-Este projeto está sob a licença MIT. Consulte o arquivo
-[LICENSE](LICENSE) para mais detalhes.
+Caso tenha interesse acesse o documento que possui o tutorial de como fazer o projeto realize o passo a passo no <a href="https://github.com/Gustavo-Rodrigue/Maps_laravel/tree/main/Passo%20a%20Passo">Clicando Aqui</a> e após isso crie a tabela que aparece no arquivo TXT
